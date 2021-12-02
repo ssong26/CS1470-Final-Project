@@ -1,5 +1,5 @@
 ## Forward and Inverse Problem of the Michelson interferometer
-# Data
+### Data
 dsf
-# Code
+### Code
 There are three coding files in the current folder
