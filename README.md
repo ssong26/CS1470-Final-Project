@@ -6,3 +6,6 @@ There are three coding files in the current folder.
 #### cnn.py
 This file develops the CNN model for parameter extraction.
 #### dcgan.py
+This file develops the dcGAN model for interference pattern generation.
+#### together.py
+This file combines the cnn model and the generator model.
