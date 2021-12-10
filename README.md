@@ -1,3 +1,2 @@
 ## Forward and Inverse Problem of the Michelson interferometer
-### Code
-There are three coding files in the current folder.
+The current model is developed based on Tensorflow 2.2.
